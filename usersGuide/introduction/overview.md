@@ -12,6 +12,7 @@ Chain4Energy (C4E) is a sovereign global decentralized blockchain ecosystem. The
 Chain4Energy brings the energy industry to Web 3 by responding to the requirements and needs of all participants and enabling the effective creation and distribution of value. Blockchain removes delays, gets the right information to the right place, and eliminates the possibility of fraud and manipulation. It also enables P2P energy trading (without intermediaries), and thus effectively, between energy market participants.
 
 Mission
+{test test}
 
 C4E’s mission is to build a solution for the energy sector to accelerate the transition towards NET ZERO emission through the use of blockchain and distributed ledger technologies
 
